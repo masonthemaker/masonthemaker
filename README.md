@@ -2,6 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=masonthemaker&label=Profile%20views&color=0e75b6&style=flat)
 
+<a href="https://app.daily.dev/masonthemaker"><img src="https://api.daily.dev/devcards/v2/dBILJ8ozeLZo99BjzCzfr.png?r=4kh&type=default" width="356" alt="Mason's Dev Card"/></a>
+
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
